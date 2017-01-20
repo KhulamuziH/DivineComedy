@@ -1,0 +1,56 @@
+#Divine Comedy
+
+Collaborative MA/MSc modular FPS game
+
+Khulamuzi Hlabangana
+
+Intro to Game Programming & Intro to Modelling and Animation
+
+Modular 1st Person Game using Unreal Engine
+
+January 2017
+
+Team Members: Andreas Karpasitis, Witek Gawlowsk, Nikita Veselov, Eddy Burton
+
+Game Description: 
+
+Divine Comedy is 1st person shooter where the player descends into the bowels of a hell, She is a 
+neophyte angel who lost her wings, she was tasked to take care of halo’s however she accidentally drops 
+the halos into a portal which travels to hell, so she breaks into the heaven vault and gets out a holy
+blaster and dives after halos to hell. 
+While falling, the player will use a gun to destroy obstructions which can sometime serve as platforms. 
+Enemies throughout the game environment leaping across the planes to attack the player, but also you have
+to aware of the danger of falling to your death and the gun has a knock back effect which reduces the players 
+fall to allow for safe landings, there will be rest areas where the player can find wide open temples with 
+collectibles just as health packs and ammo. There will be various weapon at least 3 for the game that have 
+varying parameters for the player to use to interact with world, as quite a lot of objects will be 
+destructible and might open hidden pathways
+
+Weapon System: 
+
+The weapons will have various effects in terms of damage, and knockback to give the player more tools to play 
+with, each with their own strengths, however the knockback could also serve as your doom or savior.
+
+
+Contributions:
+
+I was solely responsible for modelling the rock assets, all texturing for both rock assets and but l 
+worked collaboratively with Andreas he modelled the temple assets and I textured the temple assets. 
+I decided it was best if I were to texture all the objects as l was aiming for a certain style and to
+allow our work to be coherent in terms of art style. Andreas modelled the temple assets, worked on 
+unreal blueprints to for the character, gun, and collectables, and with the great programmers Nikita 
+and Witek their created an amazing cave generation algorithm and helped with a lot of technical issues
+with game throughout the development of the game, l only wish I could done more.  Eddy came up with the
+great idea of translating the game “Down Well” to a 3D version and then as a team we discussed the 
+gameplay mechanics of how game would entail, unfortunately Eddy couldn’t contribute more due to technical issues. 
+
+Conclusion:
+
+This project provided a great amount of opportunity for me to grow and understand what it takes 
+to design a game and how you should collaborate with the team so you know what we need in the 
+game. I realized the importance of communication as l assumed too much, and spent too much 
+time in texturing and instead l should have spent time helping Andreas build the level, as where
+didn’t create appropriate modular caves to substitute the cubes with.
+
+
+
